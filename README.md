@@ -64,6 +64,7 @@ ChronosTrade/
 ├── notebooks/            # Jupyter notebooks for ARIMA & LSTM
 │   ├── week1_arima.ipynb
 │   └── week2_lstm.ipynb
+|   └── week3
 ├── reports/              # Written reports and analysis
 ├── README.md             # Project overview
 └── requirements.txt      # Python dependencies
